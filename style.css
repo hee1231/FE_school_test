@@ -1,0 +1,49 @@
+#wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  background: radial-gradient(
+    96.74% 276.79% at 3.59% 5.28%,
+    #f0f4ff 0%,
+    #a5b6ee 100%
+  );
+}
+
+.logo {
+  position: absolute;
+  top: 72px;
+  left: 50%;
+  right: 50%;
+}
+
+.container {
+  position: absolute;
+  width: 400px;
+  height: 360px;
+  left: 50%;
+  right: 50%;
+  top: 180px;
+  background: linear-gradient(144.07deg, #5572bb 2.13%, #374b7c 102.97%);
+  box-shadow: 20px 20px 60px 10px rgba(55, 75, 124, 0.4);
+  border-radius: 16px;
+}
+
+.timerLogo {
+  font-family: "Pretendard";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 48px;
+}
+
+.line {
+  position: absolute;
+  width: 312px;
+  height: 1px;
+  left: 44px;
+  background: #3d538a;
+}
